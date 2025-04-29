@@ -1,0 +1,8 @@
+Iniciando deleção 2025-04-28T16:34:20.317Z 
+Falha ao deletar empresa id = 8095, AxiosError: Request failed with status code 403
+Iniciando deleção 2025-04-28T16:35:48.659Z 
+Deletado empresa id = 8095
+Iniciando deleção 2025-04-28T16:40:59.194Z 
+Deletado empresa id = 7675
+Iniciando deleção 2025-04-28T16:50:14.769Z 
+Falha ao deletar empresa id = 7675, AxiosError: Request failed with status code 400
